@@ -1,0 +1,23 @@
+{
+  "name": "lspm",
+  "version": "0.1.0",
+  "description": "League Sandbox Package Manager",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MythicManiac/lspm.git"
+  },
+  "keywords": [
+    "League",
+    "Sandbox",
+    "Package",
+    "Manager",
+    "Legends"
+  ],
+  "author": "Mythic <mythicmaniac@gmail.com> (https://github.com/MythicManiac)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MythicManiac/lspm/issues"
+  },
+  "homepage": "https://github.com/MythicManiac/lspm#readme"
+}
